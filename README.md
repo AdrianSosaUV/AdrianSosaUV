@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adrinso24822337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrinso24822337" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/adrian-sosa-medellin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adrian-sosa-medellin" height="30" width="40" /></a>
-<a href="https://fb.com/adrian sosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian sosa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrian-sosa-medellin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adrian-sosa-medellin" height="30" width="40" /></a>
+<a href="https://fb.com/AdriannSM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian sosa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
